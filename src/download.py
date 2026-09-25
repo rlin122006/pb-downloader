@@ -10,9 +10,9 @@ from patchright.sync_api import Page, sync_playwright
 from pathlib import Path
 from tqdm import tqdm
 
-##############
-### FIELDS ###
-##############
+#################
+### VARIABLES ###
+#################
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 
